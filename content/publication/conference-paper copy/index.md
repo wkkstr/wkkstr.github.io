@@ -5,25 +5,24 @@ title: 'Automated Formalization via Conceptual Retrieval-Augmented LLMs'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Wangyue Lu
+  - Ke Weng
   - admin
   - Sirui Li
-  - Ke Weng
+  - Wangyue Lu
   - Haozhe Sun
-  - Minghe Yu
+  - Hengyu Liu
   - Tiancheng Zhang
-  - Ge Yu
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2025-08-06'
+date: '2025-07-03'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -34,7 +33,7 @@ publication_types: ['paper-conference']
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Autoformalization, the process of transforming informal mathematical propositions into verifiable formal representations, is a foundational task in automated theorem proving, offering a new perspective on the use of mathematics in both theoretical and applied domains. Driven by the rapid progress in artificial intelligence, particularly large language models (LLMs), this field has witnessed substantial growth, bringing both new opportunities and unique challenges. In this survey, we provide a comprehensive overview of recent advances in autoformalization from both mathematical and LLM-centric perspectives. We examine how autoformalization is applied across various mathematical domains and levels of difficulty, and analyze the end-to-end workflow from data preprocessing to model design and evaluation. We further explore the emerging role of autoformalization in enhancing the verifiability of LLM-generated outputs, highlighting its potential to improve both the trustworthiness and reasoning capabilities of LLMs. Finally, we summarize key open-source models and datasets supporting current research, and discuss open challenges and promising future directions for the field.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2508.06931'
+url_pdf: 'https://arxiv.org/abs/2505.23486'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
