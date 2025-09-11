@@ -15,10 +15,10 @@ sections:
         <br>
         
         Tutorial: Auto-Formalization in Large Language Models era: From Mathematical Proofs to Verifying LLM Reasoning will be hold in AAAI'26. We sincerely invite all of you who are interested to participate!
-        
+
   - block: people
     content:
-      title: Meet the Team
+      # title: Meet the Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -34,6 +34,17 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+
+  - block: hero
+    content:
+      title: |
+        Abstract
+      <!-- image:
+        filename: welcome.jpg -->
+      text: |
+        <br>
+        
+        The rapid advances in Large Language Models (LLMs) are transforming research across many fields, yet ensuring the reliability and verifiability of their outputs remains a fundamental challenge, particularly in tasks involving complex reasoning and knowledge integration. In mathematics, formal theorem proving offers a rigorous framework for verifying reasoning by translating natural language into strict formal systems. Leveraging this synergy between LLMs and formal proof verification has emerged as a promising research direction. However, manual formalization is notoriously labor-intensive, driving significant interest in autoformalization—the automatic translation from natural language into formal languages. This tutorial provides a comprehensive introduction to the landscape of autoformalization in the context of LLMs, discussing its core methodologies, diverse applications, and key challenges. Attendees will gain insights into how autoformalization can enhance the reliability of LLM-generated outputs and catalyze advancements in higher mathematics, realistic reasoning tasks, and AI-assisted verification. Ultimately, this line of research promises more robust, rigorous, and trustworthy AI systems.
 
   - block: hero
     content:
