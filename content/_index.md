@@ -36,7 +36,7 @@ sections:
       show_social: true
   - block: collection
     content:
-      title: "Recent Publications"
+      title: "Work"
       subtitle: "Latest research by our team"
       filters:
         author: "Lun Du"
@@ -45,12 +45,6 @@ sections:
     design:
       view: citation
       columns: '1'
-
-  - block: markdown
-    content:
-      title: Work
-      text: |
-        You can check out our related [work](./people/)
 
   - block: markdown
     content:
