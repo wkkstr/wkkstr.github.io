@@ -8,16 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        AAAI Tutorial
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The tutorial called Auto-Formalization in Large Language Models era: From Mathematical Proofs to Verifying LLM Reasoning will be hold in AAAI'26. We sincerely invite all of you who are interested to participate!
   
-  - block: collection
+  <!-- - block: collection
     content:
       title: Latest News
       subtitle:
@@ -34,9 +33,9 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
+      columns: '1' -->
   
-  - block: markdown
+  <!-- - block: markdown
     content:
       title:
       subtitle: ''
@@ -54,9 +53,9 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      css_class: fullscreen -->
 
-  - block: collection
+  <!-- - block: collection
     content:
       title: Latest Preprints
       text: ""
@@ -76,5 +75,5 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
-      columns: '1'
+      columns: '1' -->
 ---

@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the tutorial
+        content: Auto-Formalization in Large Language Models era: From Mathematical Proofs to Verifying LLM Reasoning
         align: center
         background:
           image:
