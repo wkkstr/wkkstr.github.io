@@ -1,5 +1,5 @@
 ---
-title: 'Automated Formalization via Conceptual Retrieval-Augmented LLMs'
+title: 'Autoformalization in the Era of Large Language Models: A Survey'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
