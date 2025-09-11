@@ -51,18 +51,17 @@ sections:
             - Logic Rule–Based Verification
           - Practical Challenges in Integrating LLMs with Formal Systems
         - Technical Q&A and Clarifying Questions (5 min)
+        - **Part III: Challenges and Future Directions (20 min)**
+          - Data Scarcity and Quality Issues
+          - Scaling Autoformalization Methods
+          - Reliability of Formal Verification for LLM Outputs
+          - Open Problems and Research Directions
 
-      - **Part III: Challenges and Future Directions (20 min)**
-        - Data Scarcity and Quality Issues
-        - Scaling Autoformalization Methods
-        - Reliability of Formal Verification for LLM Outputs
-        - Open Problems and Research Directions
+        - **Conclusion and Summary (5 min)**
 
-      - **Conclusion and Summary (5 min)**
-
-      - **Panel Discussion (15 min)**
-        - Moderated expert discussion on challenges, future opportunities, and differing perspectives in autoformalization and LLM verification.
-        - Interactive audience Q&A session.
+        - **Panel Discussion (15 min)**
+          - Moderated expert discussion on challenges, future opportunities, and differing perspectives in autoformalization and LLM verification.
+          - Interactive audience Q&A session.
   - block: markdown
     content:
       title:
