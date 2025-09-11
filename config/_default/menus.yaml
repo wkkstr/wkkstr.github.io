@@ -10,7 +10,7 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Publications
-    url: publication
+  - name: Work
+    url: work
     weight: 50
 
