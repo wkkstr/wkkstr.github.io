@@ -8,7 +8,7 @@ view: citation
 banner:
   caption: ''
   image: ''
-  
+
 sections:
   - block: markdown
     content:
@@ -16,3 +16,4 @@ sections:
       text: |
         这里是我想添加的一块文本，支持 **Markdown**。
 ---
+这里是我想添加的一块文本
