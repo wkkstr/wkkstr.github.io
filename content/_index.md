@@ -39,7 +39,7 @@ sections:
       title: "Work"
       subtitle: "Latest research by our team"
       count: 2  # 控制显示的文章数量
-      order: asc
+      order: desc
     design:
       view: citation
       columns: '1'
