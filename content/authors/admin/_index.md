@@ -28,10 +28,10 @@ interests:
 
 experience:
   courses:
-    - course:Researcher
-     institution: Microsoft Research Asia
-    - course:Researcher
-     institution: Ant Research Institute
+    - course: Researcher
+      institution: Microsoft Research Asia
+    - course: Researcher
+      institution: Ant Research Institute
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
