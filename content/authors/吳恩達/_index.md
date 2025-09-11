@@ -61,7 +61,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 Tiancheng Zhang received a MS degree in 2001 and a PhD degree in computer science from Northeastern Unversity, China in 2008. He is currently a professor at Northeastern University, China, and a CCF senior member. He has published more than 70 research papers in international conferences and journals. His research interests include spatiotemporal data mining, artificial intelligence, intelligent education.He has taught object-oriented programming, principles and applications of big data technology at Northeastern University for many years.
