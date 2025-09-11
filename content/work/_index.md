@@ -9,11 +9,5 @@ banner:
   caption: ''
   image: ''
 
-sections:
-  - block: markdown
-    content:
-      title: "关于本页面"
-      text: |
-        这里是我想添加的一块文本，支持 **Markdown**。
 ---
-这里是我想添加的一块文本
+We will soon release a very meaningful benchmark to promote the development of the field. Please stay tuned to us!
