@@ -24,7 +24,17 @@ sections:
         filename: welcome.jpg -->
       text: |
         - **Introduction (10 min):** What is Autoformalization? *(Motivation and Overview)*
-
+        - **Part 1: Foundations of Autoformalization (20 min)**
+          - **Autoformalization Pipeline and Key Components**
+            - Data Preprocessing
+              - Enhancing Data Quality
+              - Expanding Data Coverage
+            - Methods and Approaches
+              - Rule-Based Methods
+              - LLM-Based Methods
+            - Postprocessing Techniques
+            - Evaluation Metrics and Benchmarks
+          - Technical Q&A and Clarifying Questions
   - block: markdown
     content:
       title:
