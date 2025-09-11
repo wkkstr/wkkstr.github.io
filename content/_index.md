@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        AAAI Tutorial
+        AAAI Tutorial: Auto-Formalization in Large Language Models era: From Mathematical Proofs to Verifying LLM Reasoning
       image:
         filename: welcome.jpg
       text: |
@@ -16,7 +16,7 @@ sections:
         
         The tutorial called Auto-Formalization in Large Language Models era: From Mathematical Proofs to Verifying LLM Reasoning will be hold in AAAI'26. We sincerely invite all of you who are interested to participate!
   
-  <!-- - block: collection
+  - block: collection
     content:
       title: Latest News
       subtitle:
@@ -33,9 +33,9 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1' -->
+      columns: '1'
   
-  <!-- - block: markdown
+  - block: markdown
     content:
       title:
       subtitle: ''
@@ -53,9 +53,9 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen -->
+      css_class: fullscreen
 
-  <!-- - block: collection
+  - block: collection
     content:
       title: Latest Preprints
       text: ""
@@ -75,5 +75,5 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
-      columns: '1' -->
+      columns: '1'
 ---
