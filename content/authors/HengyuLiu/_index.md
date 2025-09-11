@@ -1,35 +1,35 @@
 ---
 # Display name
-title: Lun Du
+title: Hengyu Liu
 
 # Full Name (for SEO)
-first_name: Lun
-last_name: Du
+first_name: Hengyu 
+last_name: Liu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Researcher at Ant Research Institute
+role: Postdoctoral Researcher at Aalborg University
 
 # Organizations/Affiliations
 organizations:
-  - name: AGI Research Center, Ant Group
+  - name: Aalborg University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include automated formal theorem proving, large language models, graph learning, and software analytics.
+bio: My research interests include advancing AI-driven educational systems, maritime data management.
 
 interests:
-  - Automated formal theorem proving
-  - Large language models
-  - Graph learning
-  - Software analytics
+  - AI-driven educational systems
+  - Maritime data management
 
-education:
-  courses:
-    - institution: Microsoft Research Asia
-    - institution: Ant Research Institute
+
+experience:
+    - course: PhD in Computer Application Technology
+      institution: Northeastern Unversity, China
+    - course: Ph.D. fellow
+      institution: Aalborg University   
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -38,10 +38,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'dulun@pku.edu.cn'
+    link: 'heli@cs.aau.dk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=3XUANDAAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=kmPGgEYAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,4 +60,4 @@ user_groups:
   - Researchers
 ---
 
-Lun Du is a researcher at Ant Research Institute. And he will serve as the host of this tutorial. His research interests include automated formal theorem proving, large language models, graph learning, and software analytics. Before joining Ant Research Institute, he worked as a senior researcher at Microsoft Research Asia. He has published more than 70 research papers in top-tier conferences and journals, and received three best paper awards/nominees. As a tutor, he participated in the tutorial of Causal Discovery from Temporary Data at KDD'23, Mitigating Misinformation in LLM Era at WWW'24 and IJCAI'24, and Time Series Clustering Explainability at WSDM'25.
+Hengyu Liu is a Postdoctoral Researcher at Aalborg University, where he focuses on advancing AI-driven educational systems and maritime data management. He earned his Ph.D. in Computer Application Technology from Northeastern University and held visiting scholar positions at the University of Technology Sydney and Macquarie University. He has published 21 peer-reviewed articles including in leading venues amassing more than 370 citations. Complementing his research, he is dedicated to teaching and mentoring, with experience as a C++ Programming Teaching Assistant at Northeastern University, a co-supervisor for MSc students, and a Ph.D. fellow at Aalborg University. He also completed AAU’s PBL training, reflecting his commitment to interactive problem-based pedagogy. .

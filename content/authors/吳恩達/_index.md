@@ -29,7 +29,7 @@ interests:
   - Artificial intelligence
   - Intelligent education
 
-education:
+experience:
   courses:
     - course: PhD in Computer Science
       institution: Northeastern Unversity, China

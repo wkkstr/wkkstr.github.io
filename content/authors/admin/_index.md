@@ -26,10 +26,11 @@ interests:
   - Graph learning
   - Software analytics
 
-education:
-  courses:
-    - institution: Microsoft Research Asia
-    - institution: Ant Research Institute
+experience:
+    -courses:Researcher
+     institution: Microsoft Research Asia
+    -courses:Researcher
+     institution: Ant Research Institute
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
