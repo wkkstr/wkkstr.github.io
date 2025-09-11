@@ -37,6 +37,12 @@ sections:
 
   - block: markdown
     content:
+      title: Work
+      text: |
+        You can check out our related [work](./people/)
+
+  - block: markdown
+    content:
       title: |
         Abstract
       <!-- image:
@@ -101,9 +107,5 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: Work
-      text: |
-        You can check out our related [work](./people/)
+
 ---
