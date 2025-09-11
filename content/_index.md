@@ -8,9 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        AAAI Tutorial: Auto-Formalization in Large Language Models era: From Mathematical Proofs to Verifying LLM Reasoning
-      image:
-        filename: welcome.jpg
+        AAAI'26 Tutorial
+      <!-- image:
+        filename: welcome.jpg -->
       text: |
         <br>
         
