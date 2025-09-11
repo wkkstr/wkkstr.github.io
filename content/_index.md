@@ -35,6 +35,34 @@ sections:
             - Postprocessing Techniques
             - Evaluation Metrics and Benchmarks
           - Technical Q&A and Clarifying Questions
+        - **Part II: Autoformalization Applications (30 min)**
+        - **Autoformalization in Mathematics**
+          - Across Mathematical Domains
+            - Geometry and Topology
+            - Algebra and Number Theory
+            - Emerging Mathematical Domains
+          - By Problem Difficulty
+            - High School Level
+            - Undergraduate Level
+            - Graduate and Research-Level
+        - **Autoformalization for LLM Reasoning Verification**
+          - Formal Verification Approaches
+            - Proof Assistant–Based Verification
+            - Logic Rule–Based Verification
+          - Practical Challenges in Integrating LLMs with Formal Systems
+        - Technical Q&A and Clarifying Questions (5 min)
+
+      - **Part III: Challenges and Future Directions (20 min)**
+        - Data Scarcity and Quality Issues
+        - Scaling Autoformalization Methods
+        - Reliability of Formal Verification for LLM Outputs
+        - Open Problems and Research Directions
+
+      - **Conclusion and Summary (5 min)**
+
+      - **Panel Discussion (15 min)**
+        - Moderated expert discussion on challenges, future opportunities, and differing perspectives in autoformalization and LLM verification.
+        - Interactive audience Q&A session.
   - block: markdown
     content:
       title:
