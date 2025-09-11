@@ -38,8 +38,6 @@ sections:
     content:
       title: "Recent Publications"
       subtitle: "Latest research by our team"
-      filters:
-        author: "11"
       count: 5  # 控制显示的文章数量
       order: desc
     design:
