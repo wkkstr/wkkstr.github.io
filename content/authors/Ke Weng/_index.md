@@ -10,7 +10,7 @@ last_name: Weng
 superuser: true
 
 # Role/position
-role: Master at at Northeastern University, China
+role: Master at Northeastern University, China
 
 # Organizations/Affiliations
 organizations:
