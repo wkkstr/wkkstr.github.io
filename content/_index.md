@@ -38,10 +38,8 @@ sections:
     content:
       title: "Work"
       subtitle: "Latest research by our team"
-      filters:
-        author: "Lun Du"
       count: 2  # 控制显示的文章数量
-      order: desc
+      order: asc
     design:
       view: citation
       columns: '1'
