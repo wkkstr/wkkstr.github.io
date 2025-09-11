@@ -34,13 +34,18 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-    # Listing view
-    view: citation
+  - block: collection
+    content:
+      title: "Recent Publications"
+      subtitle: "Latest research by our team"
+      filters:
+        author: "11"
+      count: 5  # 控制显示的文章数量
+      order: desc
+    design:
+      view: citation
+      columns: '1'
 
-    # Optional banner image (relative to `assets/media/` folder).
-    banner:
-      caption: ''
-      image: ''
   - block: markdown
     content:
       title: Work
