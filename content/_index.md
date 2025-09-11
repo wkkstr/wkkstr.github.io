@@ -38,7 +38,7 @@ sections:
     content:
       title: "Recent Publications"
       subtitle: "Latest research by our team"
-      count: 5  # 控制显示的文章数量
+      count: 2  # 控制显示的文章数量
       order: desc
     design:
       view: citation
