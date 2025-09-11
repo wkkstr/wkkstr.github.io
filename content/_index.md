@@ -16,7 +16,7 @@ sections:
         
         The tutorial called Auto-Formalization in Large Language Models era: From Mathematical Proofs to Verifying LLM Reasoning will be hold in AAAI'26. We sincerely invite all of you who are interested to participate!
   
-  - block: collection
+  <!-- - block: collection
     content:
       title: Latest News
       subtitle:
@@ -75,5 +75,5 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
-      columns: '1'
+      columns: '1' -->
 ---
