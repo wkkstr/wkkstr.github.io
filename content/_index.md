@@ -35,7 +35,7 @@ sections:
       show_role: true
       show_social: true
 
-  - block: hero
+  - block: markdown
     content:
       title: |
         Abstract
