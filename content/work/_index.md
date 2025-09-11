@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Work
 
 # Listing view
 view: citation
@@ -8,4 +8,11 @@ view: citation
 banner:
   caption: ''
   image: ''
+  
+sections:
+  - block: markdown
+    content:
+      title: "关于本页面"
+      text: |
+        这里是我想添加的一块文本，支持 **Markdown**。
 ---
