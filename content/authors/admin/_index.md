@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lun Du
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Lun
+last_name: Du
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher at Ant Research Institute
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: AGI Research Center, Ant Grou
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include automated formal theorem proving, large language models, graph learning, and software analytics.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Automated formal theorem proving
+  - Large language models
+  - Graph learning
+  - Software analytics
 
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
+      institution: Microsoft Research Asia
       year: 2012
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: Ant Research Institute
       year: 2009
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
@@ -72,6 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lun Du is a researcher at Ant Research Institute. And he will serve as the host of this tutorial. His research interests include automated formal theorem proving, large language models, graph learning, and software analytics. Before joining Ant Research Institute, he worked as a senior researcher at Microsoft Research Asia. He has published more than 70 research papers in top-tier conferences and journals, and received three best paper awards/nominees. As a tutor, he participated in the tutorial of Causal Discovery from Temporary Data at KDD'23, Mitigating Misinformation in LLM Era at WWW'24 and IJCAI'24, and Time Series Clustering Explainability at WSDM'25.
