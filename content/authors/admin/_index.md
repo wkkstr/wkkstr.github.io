@@ -27,9 +27,9 @@ interests:
   - Software analytics
 
 experience:
-    -courses:Researcher
+    - course:Researcher
      institution: Microsoft Research Asia
-    -courses:Researcher
+    - course:Researcher
      institution: Ant Research Institute
 
 # Social/Academic Networking
