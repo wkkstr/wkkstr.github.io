@@ -19,13 +19,11 @@ sections:
   - block: hero
     content:
       title: |
-        AAAI'26 Tutorial
+        Schedule
       <!-- image:
         filename: welcome.jpg -->
       text: |
-        <br>
-        
-        Tutorial: Auto-Formalization in Large Language Models era: From Mathematical Proofs to Verifying LLM Reasoning will be hold in AAAI'26. We sincerely invite all of you who are interested to participate!
+        - **Introduction (10 min):** What is Autoformalization? *(Motivation and Overview)*
 
   - block: markdown
     content:
