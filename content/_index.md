@@ -42,9 +42,10 @@ sections:
       <!-- image:
         filename: welcome.jpg -->
       text: |
-        <br>
+        <div class="full-width-text">
         
         The rapid advances in Large Language Models (LLMs) are transforming research across many fields, yet ensuring the reliability and verifiability of their outputs remains a fundamental challenge, particularly in tasks involving complex reasoning and knowledge integration. In mathematics, formal theorem proving offers a rigorous framework for verifying reasoning by translating natural language into strict formal systems. Leveraging this synergy between LLMs and formal proof verification has emerged as a promising research direction. However, manual formalization is notoriously labor-intensive, driving significant interest in autoformalization—the automatic translation from natural language into formal languages. This tutorial provides a comprehensive introduction to the landscape of autoformalization in the context of LLMs, discussing its core methodologies, diverse applications, and key challenges. Attendees will gain insights into how autoformalization can enhance the reliability of LLM-generated outputs and catalyze advancements in higher mathematics, realistic reasoning tasks, and AI-assisted verification. Ultimately, this line of research promises more robust, rigorous, and trustworthy AI systems.
+        </div>
 
   - block: hero
     content:
