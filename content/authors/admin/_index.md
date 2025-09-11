@@ -14,7 +14,7 @@ role: Researcher at Ant Research Institute
 
 # Organizations/Affiliations
 organizations:
-  - name: AGI Research Center, Ant Grou
+  - name: AGI Research Center, Ant Group
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
