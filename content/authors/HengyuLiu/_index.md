@@ -26,6 +26,7 @@ interests:
 
 
 experience:
+  courses:
     - course: PhD in Computer Application Technology
       institution: Northeastern Unversity, China
     - course: Ph.D. fellow

@@ -27,6 +27,7 @@ interests:
   - Software analytics
 
 experience:
+  courses:
     - course:Researcher
      institution: Microsoft Research Asia
     - course:Researcher
