@@ -10,6 +10,7 @@ authors:
   - Sirui Li
   - Ke Weng
   - Haozhe Sun
+  - Hengyu Liu
   - Minghe Yu
   - Tiancheng Zhang
   - Ge Yu
